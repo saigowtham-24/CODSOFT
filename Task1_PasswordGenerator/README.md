@@ -56,8 +56,4 @@ Generated Password: @f9L#xW2e&zA
 
 ## 🎥 Demo
 
-📹 *Coming soon*: A short video walkthrough demonstrating the script, logic, and future roadmap.  
-It will cover:
-- How the password generator works
-- Input/output examples
-- Future enhancement plans
+Watch the demo on [LinkedIn](https://www.linkedin.com/posts/sai-gowtham-2220a7322_codsoft-internship-python-activity-7372928460983484416-eNZG)
