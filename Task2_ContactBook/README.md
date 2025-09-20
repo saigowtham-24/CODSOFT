@@ -47,4 +47,7 @@ python contact_book.py
 
 ```
 
+## 📹 Demo Video
 
+Watch the output demo of the Contact Book CLI application here:  
+[LinkedIn Demo Video](https://lnkd.in/p/g_QXcaBu)
