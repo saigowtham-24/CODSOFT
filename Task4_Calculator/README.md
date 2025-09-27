@@ -16,3 +16,7 @@ A simple command-line calculator built in Python. This project is part of the Co
 python calculator.py
 ```
 
+## 📽️ Demo
+
+Watch the calculator in action:  
+👉 [Click here to view the demo video on LinkedIn](https://www.linkedin.com/posts/sai-gowtham-2220a7322_python-cli-codsoftinternship-activity-7377634765228879872-njyr?utm_source=share&utm_medium=member_android&rcm=ACoAAFGG-noBf6Ra_yXj5kk1v4eztQcMwVzOv9c)
